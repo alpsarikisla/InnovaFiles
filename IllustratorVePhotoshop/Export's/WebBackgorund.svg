@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="katman_1" data-name="katman 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Adsız_degrade_4);
+      }
+
+      .cls-2 {
+        fill: #00a651;
+      }
+    </style>
+    <linearGradient id="Adsız_degrade_4" data-name="Adsız degrade 4" x1="20.32" y1="24.91" x2="1904.74" y2="1057.86" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#00a651"/>
+      <stop offset=".92" stop-color="#003f0e"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-1" x=".14" width="1919.72" height="1080"/>
+  <g id="Büyük_Logo" data-name="Büyük Logo">
+    <path class="cls-2" d="M516.99,508.75l116.47-116.47-216.32-216.32c-124.16,124.16-248.31,248.31-372.46,372.46,17.04,57.08,41.63,110.9,72.63,160.29l299.83-299.82,99.86,99.87Z"/>
+    <path class="cls-2" d="M242.46,855.17c42.14,36.74,89.03,68.2,139.61,93.31,194.67-194.68,389.36-389.36,584.04-584.04l292.76,292.76c27.44-54.01,47.61-112.33,59.25-173.66-117.34-117.34-234.67-234.69-352.02-352.02-241.22,241.22-482.43,482.43-723.65,723.65Z"/>
+  </g>
+</svg>

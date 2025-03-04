@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="katman_1" data-name="katman 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 533.42">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #00a651;
+      }
+
+      .cls-5, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-11 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-6, .cls-3 {
+        font-family: Calibri, Calibri;
+        font-size: 64.57px;
+      }
+
+      .cls-12 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7, .cls-4 {
+        font-family: SegoeUI-Bold, 'Segoe UI';
+        font-size: 112.75px;
+        font-weight: 700;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-9 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-15 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-8" width="1920" height="533.42"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-8" width="1920" height="533.42"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-8" width="1920" height="533.42"/>
+    </clipPath>
+  </defs>
+  <rect class="cls-1" width="961.39" height="533.42"/>
+  <g class="cls-15">
+    <rect class="cls-9" width="961.39" height="533.42"/>
+  </g>
+  <text class="cls-7" transform="translate(308.96 228.54)"><tspan x="0" y="0">Inno</tspan><tspan class="cls-10" x="241.09" y="0">v</tspan><tspan x="300.51" y="0">a</tspan></text>
+  <text class="cls-7" transform="translate(308.96 317.96)"><tspan x="0" y="0">Summit</tspan></text>
+  <text class="cls-6" transform="translate(604.26 369.1)"><tspan x="0" y="0">2025</tspan></text>
+  <g class="cls-11">
+    <path class="cls-5" d="M135.27,273.56l37.57-37.57,12.51,12.51,14.59-14.59-27.11-27.11c-15.56,15.56-31.12,31.11-46.67,46.67,2.14,7.15,5.22,13.9,9.1,20.08"/>
+    <path class="cls-5" d="M150.95,291.91c5.28,4.6,11.16,8.55,17.49,11.69,24.39-24.4,48.79-48.79,73.18-73.18l36.68,36.68c3.44-6.77,5.97-14.08,7.42-21.76-14.7-14.7-29.41-29.41-44.11-44.11-30.23,30.23-60.45,60.45-90.68,90.68"/>
+    <path class="cls-5" d="M153.73,264.11l-14.81,14.81c2.26,3.05,4.73,5.93,7.39,8.63l14.59-14.59c-2.65-2.72-5.06-5.68-7.18-8.84"/>
+    <path class="cls-5" d="M124.37,246.27l19.07-19.07c1.43-32.75,28.42-58.86,61.52-58.86,29.02,0,53.35,20.07,59.87,47.1l22.01,22.01c.23-2.48.34-4.99.34-7.52,0-45.41-36.81-82.22-82.22-82.22s-82.22,36.81-82.22,82.22c0,5.6.56,11.06,1.63,16.35"/>
+    <path class="cls-5" d="M259.93,257.73c-10.16,20.04-30.96,33.78-54.96,33.78-4.76,0-9.39-.54-13.84-1.56l-16.44,16.44c9.37,3.71,19.59,5.76,30.29,5.76,29.66,0,55.66-15.71,70.12-39.26l-15.15-15.16Z"/>
+  </g>
+  <text class="cls-4" transform="translate(1341.49 255.37)"><tspan x="0" y="0">Inno</tspan><tspan class="cls-12" x="241.09" y="0">v</tspan><tspan class="cls-13" x="300.51" y="0">a</tspan></text>
+  <text class="cls-4" transform="translate(1341.49 344.78)"><tspan x="0" y="0">Summit</tspan></text>
+  <text class="cls-3" transform="translate(1634.36 395.92)"><tspan x="0" y="0">2025</tspan></text>
+  <g class="cls-14">
+    <path class="cls-2" d="M1167.8,300.39l37.57-37.57,12.51,12.51,14.59-14.59-27.11-27.11c-15.56,15.56-31.11,31.11-46.67,46.67,2.14,7.15,5.22,13.9,9.1,20.08"/>
+    <path class="cls-2" d="M1183.48,318.74c5.28,4.6,11.16,8.55,17.49,11.69,24.39-24.4,48.79-48.79,73.18-73.18l36.68,36.68c3.44-6.77,5.97-14.07,7.43-21.76-14.7-14.7-29.41-29.41-44.11-44.11-30.23,30.23-60.45,60.45-90.68,90.68"/>
+    <path class="cls-2" d="M1186.26,290.93l-14.81,14.81c2.26,3.05,4.73,5.93,7.39,8.63l14.59-14.59c-2.65-2.72-5.06-5.68-7.18-8.84"/>
+    <path class="cls-2" d="M1156.9,273.09l19.07-19.07c1.43-32.75,28.43-58.86,61.53-58.86,29.02,0,53.35,20.07,59.87,47.1l22.01,22.01c.23-2.48.34-4.99.34-7.52,0-45.41-36.81-82.22-82.22-82.22s-82.22,36.81-82.22,82.22c0,5.6.56,11.06,1.63,16.35"/>
+    <path class="cls-2" d="M1292.45,284.55c-10.16,20.04-30.96,33.78-54.96,33.78-4.76,0-9.39-.54-13.84-1.56l-16.44,16.44c9.37,3.71,19.59,5.76,30.29,5.76,29.66,0,55.66-15.71,70.12-39.26l-15.15-15.16Z"/>
+  </g>
+</svg>
