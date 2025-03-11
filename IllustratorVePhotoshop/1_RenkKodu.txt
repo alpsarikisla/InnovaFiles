@@ -1,0 +1,2 @@
+Main Renk: #00A651
+Dark Renk: #003F0E
